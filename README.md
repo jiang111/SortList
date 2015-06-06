@@ -1,5 +1,8 @@
 # SortList
-排序列表
+排序列表  android  studio 版本
+
+[eclipse版本](https://github.com/jiang111/SortNameListView)
+
 
 实现了类似与通讯录的效果， 可以多选，如图：
 
