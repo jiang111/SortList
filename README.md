@@ -9,7 +9,6 @@
 
 ![Aaron Swartz](https://github.com/jiang111/SortList/raw/master/app/gif/finish.gif）
 
-
 ![Aaron Swartz]((https://github.com/jiang111/SortList/raw/master/screenshoot/r.png）
 
 ![image](https://github.com/jiang111/SortList/raw/master/screenshoot/t.png）
