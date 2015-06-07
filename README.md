@@ -7,14 +7,14 @@
 
 实现了类似与通讯录的效果， 可以多选，如图：
 
-![image](https://github.com/jiang111/SortList/blob/master/app/gif/finish.gif?raw=true）
+![image](https://github.com/jiang111/SortList/raw/master/app/gif/finish.gif）
 
 
-![image](https://github.com/jiang111/SortList/blob/master/screenshoot/r.png?raw=true）
+![image](https://github.com/jiang111/SortList/raw/master/screenshoot/r.png）
 
-![image](https://github.com/jiang111/SortList/blob/master/screenshoot/t.png?raw=true）
+![image](https://github.com/jiang111/SortList/raw/master/screenshoot/t.png）
 
-![image](https://github.com/jiang111/SortList/blob/master/screenshoot/w.png?raw=true）
+![image](https://github.com/jiang111/SortList/raw/master/screenshoot/w.png）
 
-![image](https://github.com/jiang111/SortList/blob/master/screenshoot/y.png?raw=true）
+![image](https://github.com/jiang111/SortList/raw/master/screenshoot/y.png）
 
