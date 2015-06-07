@@ -7,10 +7,10 @@
 
 实现了类似与通讯录的效果， 可以多选，如图：
 
-![image](https://github.com/jiang111/SortList/raw/master/app/gif/finish.gif）
+![Aaron Swartz](https://github.com/jiang111/SortList/raw/master/app/gif/finish.gif）
 
 
-![image](https://github.com/jiang111/SortList/raw/master/screenshoot/r.png）
+![Aaron Swartz]((https://github.com/jiang111/SortList/raw/master/screenshoot/r.png）
 
 ![image](https://github.com/jiang111/SortList/raw/master/screenshoot/t.png）
 
