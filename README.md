@@ -7,13 +7,13 @@
 
 实现了类似与通讯录的效果， 可以多选，如图：
 
-![Aaron Swartz](https://github.com/jiang111/SortList/raw/master/app/gif/finish.gif）
+![image](https://raw.githubusercontent.com/jiang111/SortList/master/app/gif/finish.gif）
 
-![Aaron Swartz]((https://github.com/jiang111/SortList/raw/master/screenshoot/r.png）
+![image](https://raw.githubusercontent.com/jiang111/SortList/master/screenshoot/w.png）
 
-![image](https://github.com/jiang111/SortList/raw/master/screenshoot/t.png）
+![image](https://raw.githubusercontent.com/jiang111/SortList/master/screenshoot/t.png）
 
-![image](https://github.com/jiang111/SortList/raw/master/screenshoot/w.png）
+![image](https://raw.githubusercontent.com/jiang111/SortList/master/screenshoot/y.png）
 
-![image](https://github.com/jiang111/SortList/raw/master/screenshoot/y.png）
+![image](https://raw.githubusercontent.com/jiang111/SortList/master/screenshoot/r.png）
 
